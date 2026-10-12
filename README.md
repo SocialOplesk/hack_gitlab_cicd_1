@@ -296,6 +296,5 @@ Marca cada ítem cuando lo hayas comprobado en tu pipeline:
 - [ ] Captura del pipeline de rama de feature (solo `lint` y `build`)
 - [ ] `README.md` del repositorio con la explicación de cada etapa
 
-### Reto opcional
-
-- Añadir una etapa `preview` que despliegue en un entorno de previsualización (sin `--prod`) en los merge requests.
+---
+<h3 align="center">SOCIAL OPLESK</h3>
